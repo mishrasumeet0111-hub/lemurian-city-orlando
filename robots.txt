@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://orlando.lemurianstudios.com/sitemap.xml
